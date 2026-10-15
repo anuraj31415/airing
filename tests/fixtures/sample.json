@@ -1,0 +1,7 @@
+{"data": {"Page": {"media": [
+  {"title": {"romaji": "Late Show", "english": "The Late Show"}, "nextAiringEpisode": {"episode": 5, "airingAt": 1000200000}},
+  {"title": {"romaji": "Soon Show", "english": "Soon English"}, "nextAiringEpisode": {"episode": 12, "airingAt": 1000010000}},
+  {"title": {"romaji": "No English Show", "english": null}, "nextAiringEpisode": {"episode": 3, "airingAt": 1000100000}},
+  {"title": {"romaji": "Finished Show", "english": null}, "nextAiringEpisode": null},
+  {"title": {"romaji": "Far Show", "english": null}, "nextAiringEpisode": {"episode": 2, "airingAt": 1900000000}}
+]}}}
